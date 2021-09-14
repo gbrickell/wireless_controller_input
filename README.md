@@ -4,7 +4,7 @@ Simple Python test code to show how a PiHut wireless controller/gamepad can be c
 Exploration code examples are underpinned by the cross-platform Python 'inputs' module from:
  https://github.com/zeth/inputs
 
-The images below show the 'codes' that are 'generated' with the 'use' of each of the (many!) buttons and other control features of the PiHut wireless controller (more details at https://thepihut.com/products/raspberry-pi-compatible-wireless-gamepad-controller)
+The images below show the 'codes' that are 'generated' with the 'use' of each of the (many!) buttons and other control features of the PiHut wireless controller (available at https://thepihut.com/products/raspberry-pi-compatible-wireless-gamepad-controller)
 
 ![PiHut controller top](images/PiHut_controller_button_code_annotated_top_view.jpg)
 ![PiHut controller back](images/PiHut_controller_button_code_annotated_back_view.jpg)
