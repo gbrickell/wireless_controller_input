@@ -2,7 +2,7 @@
 Simple Python test code to show how a PiHut wireless controller/gamepad can be connected to a Raspberry Pi for usage such as controlling a robot.
 
 Details of a robotics project that uses the PiHut controller can be found at:
-https://onlinedevices.co.uk/Flexible+Design+Raspberry+Pi+system+controller+software
+https://onlinedevices.org.uk/Flexible+Design+Raspberry+Pi+system+controller+software
 
 Exploration code examples are underpinned by the cross-platform Python 'inputs' module from:
  https://github.com/zeth/inputs
